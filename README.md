@@ -1,4 +1,5 @@
 # Introduction
+![Let's Make Some Moooo-laaaahhh](images/meme1.jpg)
 
 
 # Question 1
