@@ -1,7 +1,10 @@
 # Introduction
 ![Let's Make Some Moooo-laaaahhh](images/meme1.jpg)
 
-<image src="images/meme1.jpg" height="50%" width="50%">
+<body align="center">
+<image src="images/meme1.jpg" height="50%" width="50%"/>
+</body>
+
 
 # Question 1
 Does population 1 have a different mean that population 2?
