@@ -11,5 +11,10 @@ Does population 1 have a different mean that population 2?
 - HA: mu1 != mu2
 
 pvalue = 0.0232 which indicates we can reject our null hypothesis.
-### Conclusion
-### Further Analysis
+### Conclusion and Further Analysis
+Write some stuff about what I found. How can this affect the business? 
+
+What are some things we can do as a business as far as collecting/tracking/working with data to further enhance this analysis.
+
+
+# Question 2
