@@ -1,9 +1,5 @@
 # Introduction
-![Let's Make Some Moooo-laaaahhh](images/meme1.jpg)
-
-<body align="center">
-<image src="images/meme1.jpg" height="50%" width="50%"/>
-</body>
+![](images/meme1.jpg)
 
 
 # Question 1
