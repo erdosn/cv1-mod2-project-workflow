@@ -1,6 +1,7 @@
 # Introduction
 ![Let's Make Some Moooo-laaaahhh](images/meme1.jpg)
 
+<image src="images/meme1.jpb">
 
 # Question 1
 Does population 1 have a different mean that population 2?
