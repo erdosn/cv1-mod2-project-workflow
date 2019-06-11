@@ -1,6 +1,8 @@
 # Introduction
 ![](images/meme1.jpg)
 
+# Notebooks Used
+- [Hypothesis Testing Notebook](lesson-plan.ipynb)
 
 # Question 1
 Does population 1 have a different mean that population 2?
